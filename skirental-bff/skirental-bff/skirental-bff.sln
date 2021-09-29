@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "skirental-bff", "skirental-bff.csproj", "{DFC3A3E7-C6A9-4290-A12E-CDE85770B8A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "skirental-tests", "..\SkiRentalTests\skirental-tests.csproj", "{8CE11308-35F4-48D7-B028-8A4B6957BC90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFC3A3E7-C6A9-4290-A12E-CDE85770B8A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFC3A3E7-C6A9-4290-A12E-CDE85770B8A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFC3A3E7-C6A9-4290-A12E-CDE85770B8A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFC3A3E7-C6A9-4290-A12E-CDE85770B8A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CE11308-35F4-48D7-B028-8A4B6957BC90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CE11308-35F4-48D7-B028-8A4B6957BC90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CE11308-35F4-48D7-B028-8A4B6957BC90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CE11308-35F4-48D7-B028-8A4B6957BC90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8801B492-0050-4951-A5F1-D743E50A43E7}
+	EndGlobalSection
+EndGlobal
